@@ -144,33 +144,33 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </table>
 
 ### Files Özelliği Not :
-- [X] 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
-- [X] 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
-- [X] 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
+- [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
+- [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
+- [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
 
 ### Files Görsel Not : 
-- [X] 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
-- [X] 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
-- [X] 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
+- [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
+- [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
+- [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 
 ### Launcher.exe Release :
-- 32 & 64 Bit desteği
-- Launcher 1.MB,300KB düşürüldü. Kodları Şifreledi.
+- :wrench: 32 & 64 Bit desteği
+- :closed_lock_with_key: Launcher 1.MB,300KB düşürüldü. Kodları Şifreledi.
 
 ### KiraSoftWare.xem Release :
-- UIF & TBL Şifreledi.
-- 32 & 64 Bit desteği
-- KiraSoftWare 2.MB,900KB düşürüldü. Kodları Şifreledi.
+- :key: UIF & TBL Şifreledi.
+- :wrench: 32 & 64 Bit desteği
+- :closed_lock_with_key: KiraSoftWare 2.MB,900KB düşürüldü. Kodları Şifreledi.
 
 ### DB - KiraSoftWare.exe Release :
-- 32 & 64(Yakında) Bit desteği
-- .Net (2.0 - 3.5) fixed.
-- KiraSoftWare 2.MB,600KB düşürüldü. Kodları Şifreledi.
+- :wrench: 32 & 64(Yakında) Bit desteği
+- :hammer: .Net (2.0 - 3.5) fixed.
+- :closed_lock_with_key: KiraSoftWare 2.MB,600KB düşürüldü. Kodları Şifreledi.
   
 ### UYARI : 
-- [ ] :white_check_mark: UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
-- [ ] :white_check_mark: UYARI 2 : Başkasına Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
-- [ ] :white_check_mark: UYARI 3 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
+- [ ] :warning: UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
+- [ ] :warning: UYARI 2 : Başkasına Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
+- [ ] :warning: UYARI 3 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
 
 ### iletişim:
 - [ ] :white_check_mark: Web Adresim     : <[Web](https://kiraguard.com)>
