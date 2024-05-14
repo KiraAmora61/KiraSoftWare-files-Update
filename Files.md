@@ -1,5 +1,7 @@
 # Merhaba Arkadaşlar #
 
+# KiraSoftWare - Files v1098, v1534, v2369 ⭐
+
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
 
