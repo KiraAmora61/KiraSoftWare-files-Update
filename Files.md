@@ -73,15 +73,6 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tbody>
 </table>
 
-### KiraSoftWare.xem Release :
-- UIF & TBL Şifreledi.
-- 32 & 64 Bit desteği
-- KiraSoftWare 2.MB,900KB düşürüldü. Kodları Şifreledi.
-
-### Launcher.exe Release :
-- 32 & 64 Bit desteği
-- Launcher 1.MB,500KB düşürüldü. Kodları Şifreledi.
-
 ### Files Özelliği Not :
 - [X] 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
@@ -92,6 +83,20 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 
+### Launcher.exe Release :
+- 32 & 64 Bit desteği
+- Launcher 1.MB,300KB düşürüldü. Kodları Şifreledi.
+
+### KiraSoftWare.xem Release :
+- UIF & TBL Şifreledi.
+- 32 & 64 Bit desteği
+- KiraSoftWare 2.MB,900KB düşürüldü. Kodları Şifreledi.
+
+### DB - KiraSoftWare.exe Release :
+- 32 & 64(Yakında) Bit desteği
+- .Net (2.0 - 3.5) fixed.
+- KiraSoftWare 2.MB,600KB düşürüldü. Kodları Şifreledi.
+  
 ### UYARI : 
 - [X] UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
 - [X] UYARI 2 : Başkasına Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
