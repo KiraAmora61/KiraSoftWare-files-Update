@@ -16,6 +16,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <table>
 	<thead>
 		<tr>
+			<th>Sıra</th>
 			<th>KSW</th>
 			<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
 			<th>6.000 ₺ [Süresiz] Paket İçeriği</th>
@@ -23,52 +24,62 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	</thead>
 <tbody>
 <tr>
-	<td>1. Üç Version Tek Files</td>
+	<td>:one:</td>
+	<td>Üç Version Tek Files</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>2. Auto Update GameServer</td>
+	<td>:two:</td>
+	<td>Auto Update GameServer</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>
 <tr>
-	<td>3. Auto Update LogInServer</td>
+	<td>:three:</td>
+	<td>Auto Update LogInServer</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>4. Client & Patch</td>
+	<td>:four:</td>
+	<td>Client & Patch</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>5. Anti - Hook</td>
+	<td>:five:</td>
+	<td>Anti - Hook</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>		
 <tr>
-	<td>6. KiraSoftWare Editör</td>
+	<td>:six:</td>
+	<td>KiraSoftWare Editör</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>    
 <tr>
-	<td>7. Usko Panel</td>
+	<td>:seven:</td>
+	<td>Usko Panel</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>   
 <tr>
-	<td>8. Local & Server</td>
+	<td>:eight:</td>
+	<td>Local & Server</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>    
 <tr>
-	<td>9. Files Kurulum</td>
+	<td>:nine:</td>
+	<td>Files Kurulum</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>  
 <tr>
-	<td>10. Yardım Destek</td>
+	<td>:keycap_ten:</td>
+	<td>Yardım Destek</td>
 	<td>Yardım etmek Oranı %30 </td>
 	<td>Yardım etmek Oranı %100 </td>
 </tr>  	
@@ -78,6 +89,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <table>
 	<thead>
 		<tr>
+			<th>Sıra</th>
 			<th>Version Neler var</th>
 			<th>Version 1098</th>
 			<th>Version 1534</th>
@@ -89,7 +101,8 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	</thead>
 <tbody>
 <tr>
-	<td>1. Game & LogIn Server </td>
+	<td>:one:</td>
+	<td>Game & LogIn Server </td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -98,7 +111,8 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>2. Anti - Hook </td>
+	<td>:two:</td>
+	<td>Anti - Hook </td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -107,7 +121,8 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:Yakında:</td>
 </tr>
 <tr>
-	<td>3. KiraSoftWare Editör </td>
+	<td>:three:</td>
+	<td>KiraSoftWare Editör </td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -116,7 +131,8 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>4. Client & Patch</td>
+	<td>:four:</td>
+	<td>Client & Patch</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
