@@ -10,6 +10,69 @@ Oyuna giren kullanıcı hangi dosyaları açarsa açsın tüm alt dosyalar yine 
 Değerli arkadaşlar şu da bir gerçektir ki bildiğiniz üzere günümüzdeki birçok köklü ve devasa tarzda oyunlarda bile halen 3.party tools yazılımlardan etkilenmektedir ve kullanılmaktadır.
 Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam ederek olası dışı kullanılan hack programlarını engelleyeceğiz.
 
+
+<table>
+	<thead>
+		<tr>
+			<th>KSW</th>
+			<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
+			<th>6.000 ₺ [Süresiz] Paket İçeriği</th>
+		</tr>
+	</thead>
+<tbody>
+<tr>
+	<td>1. Üç Version Tek Files</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>	
+<tr>
+	<td>2. Auto Update GameServer</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>
+<tr>
+	<td>3. Auto Update LogInServer</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>	
+<tr>
+	<td>4. Client & Patch</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>	
+<tr>
+	<td>5. Anti - Hook</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>		
+<tr>
+	<td>6. KiraSoftWare Editör</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+</tr>    
+<tr>
+	<td>7. Usko Panel</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+</tr>   
+<tr>
+	<td>8. Local & Server</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>    
+<tr>
+	<td>9. Files Kurulum</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>  
+<tr>
+	<td>10. Yardım Destek</td>
+	<td>Yardım etmek Oranı %30 </td>
+	<td>Yardım etmek Oranı %100 </td>
+</tr>  	
+</tbody>
+</table>
+
 ### KiraSoftWare.xem Release :
 - UIF & TBL Şifreledi.
 - 32 & 64 Bit desteği
@@ -18,49 +81,6 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 ### Launcher.exe Release :
 - 32 & 64 Bit desteği
 - Launcher 1.MB,500KB düşürüldü. Kodları Şifreledi.
-
-### 2.000 ₺ [1 Aylık] Paket İçeriği :
-- [KSW] 3 - ÜçVersion TekFiles Hediye
-- [KSW] Game & Files Auto - Güncelleme Ücretsiz. !
-- [KSW] Patch Güncelleme Ücretsiz. !
-- [KSW] Kurulum Ücretsiz. !
-- [KSW] (Minimun) Yardım Desteği. !
-
-### 6.000 ₺ [Süresiz] Paket İçeriği :
-- [KSW] 3 - ÜçVersion TekFiles Hediye
-- [KSW] Game & Files Auto - Güncelleme Ücretsiz. !
-- [KSW] Patch Güncelleme Ücretsiz. !
-- [KSW] Kurulum Ücretsiz. !
-- [KSW] KiraSoftWare Editör Ücretsiz!
-- [KSW] Usko Panel (Kod Kaynağı) Ücretsiz !
-- [KSW] (Orta) Yardım Desteği. !
-
-<table>
-	<thead>
-		<tr>
-			<th>KSW</th>
-			<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
-      <th>6.000 ₺ [Süresiz] Paket İçeriği</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Auto Update</td>
-			<td>:heavy_multiplication_x:</td>
-      <td>:heavy_check_mark:</td>
-		</tr>
-		<tr>
-			<td>Auto Update</td>
-			<td>:heavy_multiplication_x:</td>
-      <td>:heavy_check_mark:</td>
-		</tr>
-		<tr>
-			<td>Auto Update</td>
-			<td>:heavy_multiplication_x:</td>
-      <td>:heavy_check_mark:</td>
-		</tr>    
-	</tbody>
-</table>
 
 ### Files Güncelleme Not : Güncelleme
 - [X] 1098 Görsel     : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
