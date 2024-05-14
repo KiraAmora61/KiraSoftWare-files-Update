@@ -82,10 +82,15 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - 32 & 64 Bit desteği
 - Launcher 1.MB,500KB düşürüldü. Kodları Şifreledi.
 
-### Files Güncelleme Not : Güncelleme
-- [X] 1098 Görsel     : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
-- [X] 1534 Görsel     : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
-- [X] 2369 Görsel     : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
+### Files Files Özelliği Not :
+- [X] 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
+- [X] 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
+- [X] 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
+
+### Files Görsel Not : 
+- [X] 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
+- [X] 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
+- [X] 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 
 ### UYARI : 
 - [X] UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
