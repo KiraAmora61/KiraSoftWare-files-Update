@@ -82,7 +82,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - 32 & 64 Bit desteği
 - Launcher 1.MB,500KB düşürüldü. Kodları Şifreledi.
 
-### Files Files Özelliği Not :
+### Files Özelliği Not :
 - [X] 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
