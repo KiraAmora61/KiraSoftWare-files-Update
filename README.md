@@ -75,6 +75,58 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tbody>
 </table>
 
+<table>
+	<thead>
+		<tr>
+			<th>Version Neler var</th>
+			<th>Version 1098</th>
+			<th>Version 1534</th>
+			<th>Version 2369</th>
+			<th>Version 2383</th>
+			<th>Version 2416</th>
+			<th>Version 2515</th>
+		</tr>
+	</thead>
+<tbody>
+<tr>
+	<td>1. Game & LogIn Server </td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+</tr>	
+<tr>
+	<td>2. Anti - Hook </td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+</tr>
+<tr>
+	<td>3. KiraSoftWare Editör </td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+</tr>	
+<tr>
+	<td>4. Client & Patch</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+	<td>:Yakında:</td>
+</tr>	   	
+</tbody>
+</table>
+
 ### Files Özelliği Not :
 - [X] 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
