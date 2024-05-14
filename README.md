@@ -90,7 +90,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<thead>
 		<tr>
 			<th>Sıra</th>
-			<th>Version Neler var</th>
+			<th>KSW</th>
 			<th>Version 1098</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
