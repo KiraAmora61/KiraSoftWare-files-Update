@@ -168,12 +168,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - KiraSoftWare 2.MB,600KB düşürüldü. Kodları Şifreledi.
   
 ### UYARI : 
-- [X] UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
-- [X] UYARI 2 : Başkasına Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
-- [X] UYARI 3 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
+- [ ] :white_check_mark: UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
+- [ ] :white_check_mark: UYARI 2 : Başkasına Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
+- [ ] :white_check_mark: UYARI 3 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
 
 ### iletişim:
-- [X] Web Adresim     : <[Web](https://kiraguard.com)>
-- [X] Forum Adresim   : <[Forum](https://forum.kiraguard.com/index.php)>
-- [X] Discord Adresim : <[Discord](https://discord.gg/bDAG2mNqgb)>
-- [X] Whatsap Adresim : <[Whatsap](https://api.whatsapp.com/send/?phone=905411599404&text&type=phone_number&app_absent=0)>
+- [ ] :white_check_mark: Web Adresim     : <[Web](https://kiraguard.com)>
+- [ ] :white_check_mark: Forum Adresim   : <[Forum](https://forum.kiraguard.com/index.php)>
+- [ ] :white_check_mark: Discord Adresim : <[Discord](https://discord.gg/bDAG2mNqgb)>
+- [ ] :white_check_mark: Whatsap Adresim : <[Whatsap](https://api.whatsapp.com/send/?phone=905411599404&text&type=phone_number&app_absent=0)>
