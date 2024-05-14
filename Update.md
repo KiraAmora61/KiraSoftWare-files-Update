@@ -35,6 +35,33 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [KSW] Usko Panel (Kod Kaynağı) Ücretsiz !
 - [KSW] (Orta) Yardım Desteği. !
 
+<table>
+	<thead>
+		<tr>
+			<th>KSW</th>
+			<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
+      <th>6.000 ₺ [Süresiz] Paket İçeriği</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Auto Update</td>
+			<td>:heavy_multiplication_x:</td>
+      <td>:heavy_check_mark:</td>
+		</tr>
+		<tr>
+			<td>Auto Update</td>
+			<td>:heavy_multiplication_x:</td>
+      <td>:heavy_check_mark:</td>
+		</tr>
+		<tr>
+			<td>Auto Update</td>
+			<td>:heavy_multiplication_x:</td>
+      <td>:heavy_check_mark:</td>
+		</tr>    
+	</tbody>
+</table>
+
 ### Files Güncelleme Not : Güncelleme
 - [X] 1098 Görsel     : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] 1534 Görsel     : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
