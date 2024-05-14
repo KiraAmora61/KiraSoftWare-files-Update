@@ -18,6 +18,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 		<tr>
 			<th>Sıra</th>
 			<th>KSW</th>
+			<th>5 Gün Deneme Paket İçeriği</th>
 			<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
 			<th>6.000 ₺ [Süresiz] Paket İçeriği</th>
 		</tr>
@@ -28,16 +29,19 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>Üç Version Tek Files</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>:two:</td>
 	<td>Auto Update GameServer</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>
 <tr>
 	<td>:three:</td>
 	<td>Auto Update LogInServer</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
@@ -46,10 +50,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>Client & Patch</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>:five:</td>
 	<td>Anti - Hook</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>		
@@ -57,11 +63,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:six:</td>
 	<td>KiraSoftWare Editör</td>
 	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>    
 <tr>
 	<td>:seven:</td>
 	<td>Usko Panel</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>   
@@ -70,16 +78,19 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>Local & Server</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>    
 <tr>
 	<td>:nine:</td>
 	<td>Files Kurulum</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>  
 <tr>
 	<td>:keycap_ten:</td>
 	<td>Yardım Destek</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>Yardım etmek Oranı %30 </td>
 	<td>Yardım etmek Oranı %100 </td>
 </tr>  	
