@@ -93,9 +93,9 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>2. Anti - Hook </td>
@@ -111,18 +111,18 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>4. Client & Patch</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	   	
 </tbody>
 </table>
