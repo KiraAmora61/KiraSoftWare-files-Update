@@ -105,6 +105,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 1098</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
+			<th>Version 2383</th>
 			<th>Version 2436</th>
 			<th>Version 2520</th>
 		</tr>
