@@ -1,6 +1,7 @@
 # Merhaba Arkadaşlar #
 
-# KiraSoftWare - Files v1098, v1534, v2369 ⭐
+## [ISTRAP] KiraSoftWare - Files (v1098,v1534,v2369) ⭐
+## [ISTRAP] KiraSoftWare - Files (v2383,v2435,v2520) Yakında ⭐
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
@@ -106,7 +107,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 1534</th>
 			<th>Version 2369</th>
 			<th>Version 2383</th>
-			<th>Version 2434</th>
+			<th>Version 2435</th>
 			<th>Version 2520</th>
 		</tr>
 	</thead>
@@ -158,11 +159,15 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
+- [X] :books: 2435  : <[2435 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] :books: 2520  : <[2520 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
+- [X] :sunrise_over_mountains: 2435  : <[2435 Media Yakında](https://forum.kiraguard.com/index.php?media/)>
+- [X] :sunrise_over_mountains: 2520  : <[2520 Media Yakında](https://forum.kiraguard.com/index.php?media/)>
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
