@@ -1,7 +1,7 @@
 # Merhaba Arkadaşlar #
 
 ## [ISTRAP] KiraSoftWare - Files (v1098,v1534,v2369) ⭐
-## [ISTRAP] KiraSoftWare - Files (v2383,v2435,v2520) Yakında ⭐
+## [ISTRAP] KiraSoftWare - Files (v2522) Yakında ⭐
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
@@ -106,17 +106,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 1098</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
-			<th>Version 2383</th>
-			<th>Version 2435</th>
-			<th>Version 2520</th>
+			<th>Version 2522</th>
 		</tr>
 	</thead>
 <tbody>
 <tr>
 	<td>:one:</td>
 	<td>Game & LogIn Server </td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -129,14 +125,10 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:Yakında:</td>
-	<td>:Yakında:</td>
-	<td>:Yakında:</td>
 </tr>
 <tr>
 	<td>:three:</td>
 	<td>KiraSoftWare Editör </td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -149,8 +141,6 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
 </tr>	   	
 </tbody>
 </table>
@@ -159,17 +149,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] :books: 2383  : <[2383 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
-- [X] :books: 2435  : <[2435 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
-- [X] :books: 2520  : <[2520 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] :books: 2522  : <[2520 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] :sunrise_over_mountains: 2383  : <[2383 Media Yakında](https://forum.kiraguard.com/index.php?media/)>
-- [X] :sunrise_over_mountains: 2435  : <[2435 Media Yakında](https://forum.kiraguard.com/index.php?media/)>
-- [X] :sunrise_over_mountains: 2520  : <[2520 Media Yakında](https://forum.kiraguard.com/index.php?media/)>
+- [X] :sunrise_over_mountains: 2522  : <[2520 Media Yakında](https://forum.kiraguard.com/index.php?media/categories/2522-usko-koserver.6/)>
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
