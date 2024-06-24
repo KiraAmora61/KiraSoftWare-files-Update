@@ -83,6 +83,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tr>    
 <tr>
 	<td>:nine:</td>
+	<td>Ko-CuCe Program upup</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+</tr>  
+	<tr>
+	<td>:nine:</td>
 	<td>Files Kurulum</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
