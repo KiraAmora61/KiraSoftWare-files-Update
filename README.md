@@ -1,7 +1,7 @@
 # Merhaba Arkadaşlar #
 
 ## [ISTRAP] KiraSoftWare - Files (v1098,v1534,v2369) ⭐
-## [ISTRAP] KiraSoftWare - Files (v2522) Yakında ⭐
+## [ISTRAP] KiraSoftWare - Files (v2524) Yakında ⭐
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
@@ -106,7 +106,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 1098</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
-			<th>Version 2522</th>
+			<th>Version 2524</th>
 		</tr>
 	</thead>
 <tbody>
@@ -149,13 +149,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] :books: 2522  : <[2522 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] :books: 2522  : <[2524 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] :sunrise_over_mountains: 2522  : <[2522 Media Yakında](https://forum.kiraguard.com/index.php?media/categories/2522-usko-koserver.6/)>
+- [X] :sunrise_over_mountains: 2522  : <[2524 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
