@@ -1,7 +1,6 @@
 # Merhaba Arkadaşlar #
 
-## [ISTRAP] KiraSoftWare - Files (v1098,v1534,v2369) ⭐
-## [ISTRAP] KiraSoftWare - Files (v2524) Yakında ⭐
+## KiraSoftWare - Files (v1098, v1534, v2369, v2524) ⭐
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
