@@ -156,13 +156,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] :books: 2522  : <[2524 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] :books: 2524  : <[2524 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] :sunrise_over_mountains: 2522  : <[2524 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+- [X] :sunrise_over_mountains: 2524  : <[2524 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
