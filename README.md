@@ -1,6 +1,6 @@
 # Merhaba Arkadaşlar #
 
-## KiraSoftWare - Files (v1098, v1534, v2369, v2524) ⭐
+## KiraSoftWare - Files (v1098, v1534, v2369, v2537) ⭐
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
@@ -112,7 +112,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 1098</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
-			<th>Version 2524</th>
+			<th>Version 2537</th>
 		</tr>
 	</thead>
 <tbody>
@@ -155,13 +155,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] :books: 2524  : <[2524 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] :books: 2537  : <[2537 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] :sunrise_over_mountains: 2524  : <[2524 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+- [X] :sunrise_over_mountains: 2537  : <[2537 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
@@ -178,9 +178,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - :closed_lock_with_key: KiraSoftWare 2.MB,600KB düşürüldü. Kodları Şifreledi.
   
 ### UYARI : 
-- [ ] :warning: UYARI 1 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
-- [ ] :warning: UYARI 2 : Başkasına Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
-- [ ] :warning: UYARI 3 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
+- [ ] :warning: UYARI 1 : Files ile birlikte bize ait sunuculara kurulum işlemi yapılır.
+- [ ] :warning: UYARI 2 : Teknik destek ücretsizdir fakat pakete dahil olmayan extra özellikler ücret ile yapılmaktadır.
+- [ ] :warning: UYARI 3 : Files ip adresine özel lisanslanır ve çoğaltılması ve paylaşılması yasaktır.
+- [ ] :warning: UYARI 4 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
+- [ ] :warning: UYARI 5 : Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
+- [ ] :warning: UYARI 6 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
 
 ### iletişim:
 - [ ] :white_check_mark: Web Adresim     : <[Web](https://kiraguard.com)>
