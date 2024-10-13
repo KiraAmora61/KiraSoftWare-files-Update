@@ -177,12 +177,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 ### KiraSoftWare.xem Release :
 - :key: UIF & TBL Şifreledi.
 - :wrench: 32 & 64 Bit desteği
-- :closed_lock_with_key: KiraSoftWare 2.MB,900KB düşürüldü. Kodları Şifreledi.
+- :closed_lock_with_key: KiraSoftWare 630.KB düşürüldü. Kodları Şifreledi.
 
 ### DB - KiraSoftWare.exe Release :
 - :wrench: 32 & 64(Yakında) Bit desteği
 - :hammer: .Net (2.0 - 3.5) fixed.
-- :closed_lock_with_key: KiraSoftWare 630.KB düşürüldü. Kodları Şifreledi.
+- :closed_lock_with_key: KiraSoftWare 5MB düşürüldü. Kodları Şifreledi.
   
 ### UYARI : 
 - [ ] :warning: UYARI 1 : Files ile birlikte bize ait sunuculara kurulum işlemi yapılır.
