@@ -172,7 +172,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
-- :closed_lock_with_key: Launcher 1.MB,300KB düşürüldü. Kodları Şifreledi.
+- :closed_lock_with_key: Launcher 400.KB düşürüldü. Kodları Şifreledi.
 
 ### KiraSoftWare.xem Release :
 - :key: UIF & TBL Şifreledi.
@@ -182,7 +182,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 ### DB - KiraSoftWare.exe Release :
 - :wrench: 32 & 64(Yakında) Bit desteği
 - :hammer: .Net (2.0 - 3.5) fixed.
-- :closed_lock_with_key: KiraSoftWare 2.MB,600KB düşürüldü. Kodları Şifreledi.
+- :closed_lock_with_key: KiraSoftWare 630.KB düşürüldü. Kodları Şifreledi.
   
 ### UYARI : 
 - [ ] :warning: UYARI 1 : Files ile birlikte bize ait sunuculara kurulum işlemi yapılır.
