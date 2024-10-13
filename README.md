@@ -1,6 +1,6 @@
 # Merhaba Arkadaşlar #
 
-## KiraSoftWare - Files (v1098, v1534, v2369, v2537) ⭐
+## KiraSoftWare - Files (v1098, v1534, v2369, v2539) ⭐
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
@@ -41,6 +41,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <tr>
 	<td>:three:</td>
 	<td>Auto Update LogInServer</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>	
+	<tr>
+	<td>:three:</td>
+	<td>Auto Update LogsServer</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -112,7 +119,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 1098</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
-			<th>Version 2537</th>
+			<th>Version 2539</th>
 		</tr>
 	</thead>
 <tbody>
@@ -155,13 +162,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] :books: 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] :books: 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] :books: 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] :books: 2537  : <[2537 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] :books: 2539  : <[2539 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] :sunrise_over_mountains: 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] :sunrise_over_mountains: 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] :sunrise_over_mountains: 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] :sunrise_over_mountains: 2537  : <[2537 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+- [X] :sunrise_over_mountains: 2539  : <[2539 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### Launcher.exe Release :
 - :wrench: 32 & 64 Bit desteği
