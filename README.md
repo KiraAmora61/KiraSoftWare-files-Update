@@ -1,6 +1,9 @@
-# Merhaba Arkadaşlar #
+# KiraSoftWare Files 1098, 1534, 2369 (2383, 2435, 2539) ⭐
 
-## KiraSoftWare - Files (v1098, v1534, v2369, v2539) ⭐
+> [KSW] 1098, 1534, 2369 Files Version.
+> 
+> **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp` , `
+---
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
@@ -16,11 +19,11 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <table>
 	<thead>
 		<tr>
-			<th>Sıra</th>
-			<th>KSW</th>
-			<th>3 Gün Deneme Paket İçeriği</th>
-			<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
-			<th>6.000 ₺ [Süresiz] Paket İçeriği</th>
+		<th>Sıra</th>
+		<th>KSW</th>
+		<th>3 Gün Deneme Paket İçeriği</th>
+		<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
+		<th>6.000 ₺ [Süresiz] Paket İçeriği</th>
 		</tr>
 	</thead>
 <tbody>
@@ -183,7 +186,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - :wrench: 32 & 64(Yakında) Bit desteği
 - :hammer: .Net (2.0 - 3.5) fixed.
 - :closed_lock_with_key: KiraSoftWare 5MB düşürüldü. Kodları Şifreledi.
-  
+ 
 ### UYARI : 
 - [ ] :warning: UYARI 1 : Files ile birlikte bize ait sunuculara kurulum işlemi yapılır.
 - [ ] :warning: UYARI 2 : Teknik destek ücretsizdir fakat pakete dahil olmayan extra özellikler ücret ile yapılmaktadır.
