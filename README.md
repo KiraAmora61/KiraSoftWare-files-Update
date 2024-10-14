@@ -2,7 +2,7 @@
 
 > [KSW] 1098, 1534, 2369 Files Version.
 > 
-> **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp` , `
+> **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
 ---
 
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
@@ -101,6 +101,14 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tr>   
 <tr>
 	<td>10</td>
+	<td>UIF Sıfreleme Editör</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>		
+<tr>
+	<td>11</td>
 	<td>Anti Isım Değiştirme</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
@@ -108,7 +116,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>		
 <tr>
-	<td>11</td>
+	<td>12</td>
 	<td>Ko-CuCe Program upup</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
@@ -116,7 +124,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>  	
 <tr>
-	<td>12</td>
+	<td>13</td>
 	<td>Yardım Destek</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>Yardım etmek Oranı %30 </td>
