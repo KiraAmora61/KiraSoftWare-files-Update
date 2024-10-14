@@ -201,3 +201,5 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [ ] :white_check_mark: Github Adresim  : <[Github](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/README.md)>
 - [ ] :white_check_mark: Discord Adresim : <[Discord](https://discord.gg/bDAG2mNqgb)>
 - [ ] :white_check_mark: Whatsap Adresim : <[Whatsap](https://api.whatsapp.com/send/?phone=9006031092&text&type=phone_number&app_absent=0)>
+- [ ] :white_check_mark: Yotube Adresim  : <[Whatsap](https://www.youtube.com/@KiraSoftWare)>
+
