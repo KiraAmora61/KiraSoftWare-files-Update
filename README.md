@@ -24,7 +24,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 		<th>3 Gün Deneme Paket(Aralık)</th>
 		<th>2.000 ₺ [1 Aylık] Paket</th>
 		<th>6.000 ₺ [Süresiz] Paket</th>
-		<th>.000 ₺ [Süresiz] Paket</th>
+		<th>8.000 ₺ [Süresiz] Paket</th>
 		</tr>
 	</thead>
 <tbody>
