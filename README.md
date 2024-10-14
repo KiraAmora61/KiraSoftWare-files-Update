@@ -108,7 +108,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tr>		
 <tr>
 	<td>11</td>
-	<td>Anti Isım Değiştirme</td>
+	<td>Client AntiCheat Isım Değiştirme</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
