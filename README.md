@@ -8,13 +8,12 @@
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
 
-# Hook - Anticheat Özellikleri #
+# Anti Hook - Anticheat Özellikleri #
 Düpe ve hile engelleme konusunda paketlere dayalı koruma eklenmiştir.Tbl değiştirilmesine dayalı olarak dosya otomatik olarak tüm data klasörünü tarar ve değişen tüm dosyaları kendi ftp ağımızdan çekerek değiştirir bu sayede kullanıcı ne kadar tbl dosyası eklerse eklesin fix dosyalarla giriş sağlayacaktır.
 Oyuna giren kullanıcı hangi dosyaları açarsa açsın tüm alt dosyalar yine ftp sunucumuzdaki bilinen tüm hile programlarına karşı taranmakta ve ismi geçen bir program başlatıldığında kullanıcı oyuna giriş sağlayamamaktadır ve uyarı alacaktır.
 
 Değerli arkadaşlar şu da bir gerçektir ki bildiğiniz üzere günümüzdeki birçok köklü ve devasa tarzda oyunlarda bile halen 3.party tools yazılımlardan etkilenmektedir ve kullanılmaktadır.
 Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam ederek olası dışı kullanılan hack programlarını engelleyeceğiz.
-
 
 <table>
 	<thead>
