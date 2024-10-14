@@ -21,15 +21,17 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 		<tr>
 		<th>Sıra</th>
 		<th>KSW</th>
-		<th>3 Gün Deneme Paket İçeriği</th>
-		<th>2.000 ₺ [1 Aylık] Paket İçeriği</th>
-		<th>6.000 ₺ [Süresiz] Paket İçeriği</th>
+		<th>3 Gün Deneme Paket(Aralık)</th>
+		<th>2.000 ₺ [1 Aylık] Paket</th>
+		<th>6.000 ₺ [Süresiz] Paket</th>
+		<th>.000 ₺ [Süresiz] Paket</th>
 		</tr>
 	</thead>
 <tbody>
 <tr>
 	<td>1</td>
 	<td>3 Version Tek Files</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -40,11 +42,13 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>
 <tr>
 	<td>3</td>
 	<td>Auto Update LogInServer</td>
 	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
@@ -53,62 +57,71 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>5</td>
-	<td>Client & Patch</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-</tr>	
-<tr>
-	<td>6</td>
 	<td>Anti - Hook</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>		
 <tr>
-	<td>7</td>
+	<td>6</td>
 	<td>KiraSoftWare Editör</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>    
 <tr>
-	<td>8</td>
+	<td>7</td>
 	<td>Usko Panel</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>   
-<tr>
-	<td>9</td>
-	<td>Local & Server</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-</tr>    
-<tr>
-	<td>10</td>
-	<td>Ko-CuCe Program upup</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
-</tr>  
 	<tr>
-	<td>11</td>
+	<td>8</td>
 	<td>Files Kurulum</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-</tr>  
+	<td>:heavy_check_mark:</td>
+</tr> 
+<tr>
+	<td>9</td>
+	<td>Local & Server</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>   
+<tr>
+	<td>10</td>
+	<td>Anti Isım Değiştirme</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+</tr>		
+<tr>
+	<td>11</td>
+	<td>Ko-CuCe Program upup</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+</tr>  	
 <tr>
 	<td>12</td>
 	<td>Yardım Destek</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>Yardım etmek Oranı %30 </td>
-	<td>Yardım etmek Oranı %100 </td>
+	<td>Yardım etmek Oranı %65 </td>
+	<td>Yardım etmek Oranı %85 </td>
 </tr>  	
 </tbody>
 </table>
@@ -129,16 +142,36 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <tbody>
 <tr>
 	<td>1</td>
-	<td>Game & LogIn & Logs Server </td>
+	<td>Game Server </td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>2</td>
+	<td>LogIn Server </td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>
+<tr>
+	<td>3</td>
+	<td>Logs Server </td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>	
+<tr>
+	<td>4</td>
 	<td>Anti - Hook </td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -148,25 +181,26 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:Yakında:</td>
 </tr>
 <tr>
-	<td>3</td>
+	<td>5</td>
 	<td>KiraSoftWare Editör </td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>4</td>
+	<td>6</td>
 	<td>Client & Patch</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
-</tr>	   	
+	<td>:heavy_check_mark:</td>
+</tr>
+	
 </tbody>
 </table>
 
@@ -183,25 +217,25 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 🖼 2539  : <[2539 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### Launcher.exe Release :
-- :wrench: 32 & 64 Bit desteği
-- :closed_lock_with_key: Launcher 400.KB düşürüldü. Kodları Şifreledi.
+- 🪒 32 & 64 Bit desteği
+- 🔐 Launcher 400.KB düşürüldü. Kodları Şifreledi.
 
 ### KiraSoftWare.xem Release :
-- :key: UIF & TBL Şifreledi.
 - 🪒 32 & 64 Bit desteği
-- :closed_lock_with_key: KiraSoftWare 630.KB düşürüldü. Kodları Şifreledi.
+- :key: UIF & TBL Şifreledi.
+- 🔐 KiraSoftWare 630.KB düşürüldü. Kodları Şifreledi.
 
 ### DB - KiraSoftWare.exe Release :
-- 🪒 32 & 64(Yakında) Bit desteği
+- 🪒 32 & 64 Bit desteği
 - :hammer: .Net (2.0 - 3.5) fixed.
-- :closed_lock_with_key: KiraSoftWare 5MB düşürüldü. Kodları Şifreledi.
+- 🔐 KiraSoftWare 5MB düşürüldü. Kodları Şifreledi.
  
 ### UYARI : 
-- [ ] :warning: ☢️ UYARI 1 : Files ile birlikte bize ait sunuculara kurulum işlemi yapılır.
-- [ ] :warning: ☢️ UYARI 2 : Teknik destek ücretsizdir fakat pakete dahil olmayan extra özellikler ücret ile yapılmaktadır.
-- [ ] :warning: ☢️ UYARI 3 : Files ip adresine özel lisanslanır ve çoğaltılması ve paylaşılması yasaktır.
-- [ ] :warning: ☢️ UYARI 4 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
-- [ ] :warning: ☢️ UYARI 5 : Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
+- [ ] :warning: ☢️ UYARI 1 : Teknik destek ücretsizdir fakat pakete dahil olmayan extra özellikler ücret ile yapılmaktadır.
+- [ ] :warning: ☢️ UYARI 2 : Files ile birlikte bize ait sunuculara kurulum işlemi yapılır.
+- [ ] :warning: ☢️ UYARI 3 : Files Lisans adresine özel lisanslanır ve çoğaltılması ve paylaşılması yasaktır.
+- [ ] :warning: ☢️ UYARI 4 : Files Satmayı çalışan olursa Direk lisans iptal edilcektir.
+- [ ] :warning: ☢️ UYARI 5 : Files, SQL, Editör, Databese kullanma bilmeyenler Satın almayın Rica ediyorum.
 - [ ] :warning: ☢️ UYARI 6 : Siz kullanıcılarımızdan tek ricamız, bu yazıdaki gibi saçma sapan yorumlar yapmayın lütfen.
 
 ### iletişim:
