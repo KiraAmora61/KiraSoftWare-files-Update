@@ -1,6 +1,6 @@
 # જ⁀➴ KiraSoftWare Files 1098, 1534, 2369 (2383, 2435, 2539) ⭐🔰
 
-> [KSW] 1098, 1534, 2369 Files Version.
+> 🔰[KSW]🔰 1098, 1534, 2369 Files Version
 > 
 > **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
 ---
@@ -250,5 +250,5 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [ ] :white_check_mark: 🌐 Forum Adresim   : <[Forum](https://forum.kiraguard.com/index.php)>
 - [ ] :white_check_mark: 🌐 Github Adresim  : <[Github](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/README.md)>
 - [ ] :white_check_mark: 🌐 Discord Adresim : <[Discord](https://discord.gg/bDAG2mNqgb)>
-- [ ] :white_check_mark: 🌐 Whatsap Adresim : <[Whatsap](https://api.whatsapp.com/send/?phone=9006031092&text&type=phone_number&app_absent=0)>
-- [ ] :white_check_mark: 🌐 Yotube Adresim  : <[Whatsap](https://www.youtube.com/@KiraSoftWare)>
+- [ ] :white_check_mark: 🌐 Whatsap Adresim : <[Whatsap](https://wa.me/905060315092)>
+- [ ] :white_check_mark: 🌐 Yotube Adresim  : <[Yotube](https://www.youtube.com/@KiraSoftWare)>
