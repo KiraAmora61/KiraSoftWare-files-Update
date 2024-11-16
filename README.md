@@ -122,7 +122,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>Client Setup Oluşturma</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>  
 <tr>
@@ -229,7 +229,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 📒 2547  : <[2547 Files En Kısa Sürede](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Güncelleme Not : 
-- [X] 🖼 1098, 1534, 2369  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
+- [X] 🖼 1098, 1534, 2369, 2383  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
 - [X] 🖼 2435, 2547  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
 
 ### Knight Online Görsel Not : 
