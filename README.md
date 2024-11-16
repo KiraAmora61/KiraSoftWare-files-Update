@@ -20,7 +20,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 		<tr>
 		<th>Sıra</th>
 		<th>KSW</th>
-		<th>3 Gün Deneme Paket(Aralık)</th>
+		<th>3 Gün Deneme Paket(Nisan - 2025)</th>
 		<th>2.000 ₺ [1 Aylık] Paket</th>
 		<th>6.000 ₺ [Süresiz] Paket</th>
 		<th>8.000 ₺ [Süresiz] Paket</th>
@@ -220,12 +220,16 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </table>
 
 ### Files Özelliği Not :
-- [X] 📒 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
-- [X] 📒 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
-- [X] 📒 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] 📒 2547  : <[2547 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] 📒 1098  : <[1098 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1098-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.567/)>
+- [X] 📒 1534  : <[1534 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1534-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.569/)>
+- [X] 📒 2369  : <[2369 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-2369-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.568/)>
+- [X] 📒 2547  : <[2547 Files En Kısa Sürede](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
-### Files Görsel Not : 
+### Güncelleme Not : 
+- [X] 🖼 1098, 1534, 2369  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
+- [X] 🖼 2435, 2547  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
+
+### Knight Online Görsel Not : 
 - [X] 🖼 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] 🖼 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
