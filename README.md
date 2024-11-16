@@ -1,4 +1,4 @@
-# જ⁀➴ KiraSoftWare Files 1098, 1534, 2369 (2383, 2435, 2539) ⭐🔰
+# જ⁀➴ KiraSoftWare Files 1098, 1534, 2369 (2383, 2435, 2547) ⭐🔰
 
 > 🔰[KSW]🔰 1098, 1534, 2369 Files Version
 > 
@@ -108,18 +108,26 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tr>		
 <tr>
 	<td>11</td>
-	<td>Client AntiCheat Isım Değiştirme</td>
+	<td>Client (AntiCheat)Isım değiştirme</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>		
+	<tr>
+	<td>12</td>
+	<td>Client Setup Oluşturma</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+</tr>  
 <tr>
 	<td>12</td>
 	<td>Ko-CuCe Program upup</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>  	
 <tr>
@@ -143,7 +151,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 2369</th>
 			<th>Version 2383</th>
 			<th>Version 2435</th>
-			<th>Version 2539</th>
+			<th>Version 2547</th>
 		</tr>
 	</thead>
 <tbody>
@@ -215,13 +223,16 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 📒 1098  : <[1098 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1098.md)>
 - [X] 📒 1534  : <[1534 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/1534.md)>
 - [X] 📒 2369  : <[2369 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/2369.md)>
-- [X] 📒 2539  : <[2539 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] 📒 2547  : <[2547 Files Yakında](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Files Görsel Not : 
 - [X] 🖼 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] 🖼 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] 🖼 2539  : <[2539 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+- [X] 🖼 2547  : <[2547 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+
+### DB Editör Görsel Not : 
+- [X] 🖼 K Editör  : <[Editörs Media](https://forum.kiraguard.com/index.php?media/categories/kira-k-all-in-one-editors.5/)>
 
 ### Launcher.exe Release :
 - 🪒 32 & 64 Bit desteği
