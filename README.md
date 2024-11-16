@@ -1,6 +1,9 @@
-# જ⁀➴ KiraSoftWare Files 1098, 1534, 2369 (2383, 2435, 2547) ⭐🔰
+# જ⁀➴ KiraSoftWare Files 1098, 1534, 2369⭐🔰
 
-> 🔰[KSW]🔰 1098, 1534, 2369 Files Version
+### KAYNAK KODU TAMAMEN veya herhangi bir kod satışı kesinlikle olmayacaktır. TEKLIFETMEYINIZ . . . #
+
+> 🔰[KSW]🔰 1098, 1534, 2369 Files Version🔰
+> 🔰[KSW]🔰 2383, 2435, 2547 EnKısaSürede ♡
 > 
 > **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
 ---
@@ -8,7 +11,7 @@
 Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
 Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
 
-# Anti Hook - Anticheat Özellikleri #
+# KiraSoftWare - Anti Hook - Anticheat Özellikleri #
 Düpe ve hile engelleme konusunda paketlere dayalı koruma eklenmiştir.Tbl değiştirilmesine dayalı olarak dosya otomatik olarak tüm data klasörünü tarar ve değişen tüm dosyaları kendi ftp ağımızdan çekerek değiştirir bu sayede kullanıcı ne kadar tbl dosyası eklerse eklesin fix dosyalarla giriş sağlayacaktır.
 Oyuna giren kullanıcı hangi dosyaları açarsa açsın tüm alt dosyalar yine ftp sunucumuzdaki bilinen tüm hile programlarına karşı taranmakta ve ismi geçen bir program başlatıldığında kullanıcı oyuna giriş sağlayamamaktadır ve uyarı alacaktır.
 
@@ -123,15 +126,15 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>  
 <tr>
-	<td>12</td>
-	<td>Ko-CuCe Program upup</td>
+	<td>13</td>
+	<td>Ko-C*C* Program upup</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>  	
 <tr>
-	<td>13</td>
+	<td>14</td>
 	<td>Yardım Destek</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>Yardım etmek Oranı %30 </td>
@@ -235,7 +238,11 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 - [X] 🖼 2547  : <[2547 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
-### DB Editör Görsel Not : 
+### DB Kira (K) All in One Server Editor Güncelleme Not : 
+- [X] 🖼 1- K Editör  : <[1- Editörs Media](https://ko-yardim.com/konu/kira-k-all-in-one-v1-0-server-editor.3819/)>
+- [X] 🖼 2- K Editör  : <[2- Editörs Media](https://forum.kiraguard.com/index.php?media/categories/kira-k-all-in-one-editors.5/)>
+
+### DB Kira (K) All in One Server Editor Görsel Not : 
 - [X] 🖼 K Editör  : <[Editörs Media](https://forum.kiraguard.com/index.php?media/categories/kira-k-all-in-one-editors.5/)>
 
 ### Launcher.exe Release :
