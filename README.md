@@ -1,8 +1,8 @@
-# જ⁀➴ KiraSoftWare Files 1098, 1534, 2369⭐🔰
+# જ⁀➴ KiraSoftWare Files 1098, 1453, 1534, 2369⭐🔰
 
 ### KAYNAK KODU TAMAMEN veya herhangi bir kod satışı kesinlikle olmayacaktır. TEKLIFETMEYINIZ . . . #
 
-> 🔰[KSW]🔰 1098, 1534, 2369 Files Version🔰
+> 🔰[KSW]🔰 1098, 1453, 1534, 2369 Files Version🔰
 > 🔰[KSW]🔰 2383, 2435, 2547 EnKısaSürede ♡
 > 
 > **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
@@ -150,6 +150,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Sıra</th>
 			<th>KSW</th>
 			<th>Version 1098</th>
+			<th>Version 1453</th>
 			<th>Version 1534</th>
 			<th>Version 2369</th>
 			<th>Version 2383</th>
@@ -167,10 +168,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>2</td>
 	<td>LogIn Server </td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -187,10 +190,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>4</td>
 	<td>Anti - Hook </td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -207,10 +212,12 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
 	<td>6</td>
 	<td>Client & Patch</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -224,16 +231,18 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 
 ### Files Özelliği Not :
 - [X] 📒 1098  : <[1098 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1098-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.567/)>
+- [X] 📒 1453  : <[1453 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1534-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.569/)>
 - [X] 📒 1534  : <[1534 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1534-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.569/)>
 - [X] 📒 2369  : <[2369 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-2369-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.568/)>
 - [X] 📒 2547  : <[2547 Files En Kısa Sürede](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Güncelleme Not : 
-- [X] 🖼 1098, 1534, 2369, 2383  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
+- [X] 🖼 1098, 1453, 1534, 2369, 2383  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
 - [X] 🖼 2435, 2547  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
 
 ### Knight Online Görsel Not : 
 - [X] 🖼 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
+- [X] 🖼 1453  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1453-koserver.2/)>
 - [X] 🖼 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 - [X] 🖼 2547  : <[2547 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
