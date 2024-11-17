@@ -32,7 +32,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <tbody>
 <tr>
 	<td>1</td>
-	<td>3 Version Tek Files</td>
+	<td>4 Version Tek Files</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
