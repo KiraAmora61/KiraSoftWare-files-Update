@@ -242,7 +242,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 
 ### Knight Online Görsel Not : 
 - [X] 🖼 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
-- [X] 🖼 1453  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1453-koserver.2/)>
+- [X] 🖼 1453  : <[1453 Media](https://forum.kiraguard.com/index.php?media/categories/1453-koserver.2/)>
 - [X] 🖼 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.2/)>
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 - [X] 🖼 2547  : <[2547 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
