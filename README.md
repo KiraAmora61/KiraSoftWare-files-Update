@@ -280,6 +280,6 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [ ] :white_check_mark: 🌐 Web Adresim     : <[Web](https://kiraguard.com)>
 - [ ] :white_check_mark: 🌐 Forum Adresim   : <[Forum](https://forum.kiraguard.com/index.php)>
 - [ ] :white_check_mark: 🌐 Github Adresim  : <[Github](https://github.com/KiraAmora61/KiraSoftWare-files-Update/blob/main/README.md)>
-- [ ] :white_check_mark: 🌐 Discord Adresim : <[Discord](https://discord.gg/bDAG2mNqgb)>
+- [ ] :white_check_mark: 🌐 Discord Adresim : <[Discord](https://discord.gg/grYZDXXSEy)>
 - [ ] :white_check_mark: 🌐 Whatsap Adresim : <[Whatsap](https://wa.me/905060315092)>
 - [ ] :white_check_mark: 🌐 Yotube Adresim  : <[Yotube](https://www.youtube.com/@KiraSoftWare)>
