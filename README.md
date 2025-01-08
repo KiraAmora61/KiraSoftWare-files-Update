@@ -3,7 +3,7 @@
 ### KAYNAK KODU TAMAMEN veya herhangi bir kod satışı kesinlikle olmayacaktır. TEKLIFETMEYINIZ . . . #
 
 > 🔰[KSW]🔰 1098, 1453, 1534, 2369 Files Version🔰
-> 🔰[KSW]🔰 2383, 2435, 2547 EnKısaSürede ♡
+> 🔰[KSW]🔰 2383, 2435, 2522 EnKısaSürede ♡
 > 
 > **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
 ---
@@ -24,9 +24,9 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 		<th>Sıra</th>
 		<th>KSW</th>
 		<th>3 Gün Deneme Paket(Nisan - 2025)</th>
-		<th>2.000 ₺ [1 Aylık] Paket</th>
-		<th>6.000 ₺ [Süresiz] Paket</th>
-		<th>8.000 ₺ [Süresiz] Paket</th>
+		<th>2.500 ₺ [1 Aylık] Paket</th>
+		<th>7.000 ₺ [Süresiz] Paket</th>
+		<th>9.000 ₺ [Süresiz] Paket</th>
 		</tr>
 	</thead>
 <tbody>
@@ -155,7 +155,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 			<th>Version 2369</th>
 			<th>Version 2383</th>
 			<th>Version 2435</th>
-			<th>Version 2547</th>
+			<th>Version 2522</th>
 		</tr>
 	</thead>
 <tbody>
@@ -234,18 +234,18 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 📒 1453  : <[1453 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1534-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.569/)>
 - [X] 📒 1534  : <[1534 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-1534-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.569/)>
 - [X] 📒 2369  : <[2369 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-2369-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.568/)>
-- [X] 📒 2547  : <[2547 Files En Kısa Sürede](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
+- [X] 📒 2522  : <[2522 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
 ### Güncelleme Not : 
 - [X] 🖼 1098, 1453, 1534, 2369, 2383  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
-- [X] 🖼 2435, 2547  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
+- [X] 🖼 2435, 2522  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
 
 ### Knight Online Görsel Not : 
 - [X] 🖼 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] 🖼 1453  : <[1453 Media](https://forum.kiraguard.com/index.php?media/categories/1453-koserver.2/)>
 - [X] 🖼 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.8/)>
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] 🖼 2547  : <[2547 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+- [X] 🖼 2552  : <[2552 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### DB Kira (K) All in One Server Editor Güncelleme Not : 
 - [X] 🖼 1- K Editör  : <[1- Editörs Media](https://ko-yardim.com/konu/kira-k-all-in-one-v1-0-server-editor.3819/)>
