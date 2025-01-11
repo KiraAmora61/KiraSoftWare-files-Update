@@ -254,10 +254,6 @@ Modern oyunlarda bile üçüncü taraf araçlardan etkilenmelerin yaygın olduğ
 - [X] 📒 2369  : <[2369 Files](https://forum.kiraguard.com/index.php?threads/kirasoftware-knight-online-2369-server-files-kiral%C4%B1k-sat%C4%B1l%C4%B1k.568/)>
 - [X] 📒 2522  : <[2522 Files](https://github.com/KiraAmora61/KiraSoftWare-files-Update/)>
 
-### Güncelleme Not : 
-- [X] 🖼 1098, 1453, 1534, 2369, 2383  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
-- [X] 🖼 2435, 2522  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
-
 ### Knight Online Görsel Not : 
 - [X] 🖼 1098  : <[1098 Media](https://forum.kiraguard.com/index.php?media/categories/1098-koserver.1/)>
 - [X] 🖼 1453  : <[1453 Media](https://forum.kiraguard.com/index.php?media/categories/1453-koserver.2/)>
@@ -265,9 +261,9 @@ Modern oyunlarda bile üçüncü taraf araçlardan etkilenmelerin yaygın olduğ
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
 - [X] 🖼 2522  : <[2522 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
-### DB Kira (K) All in One Server Editor Güncelleme Not : 
-- [X] 🖼 1- K Editör  : <[1- Editörs Media](https://ko-yardim.com/konu/kira-k-all-in-one-v1-0-server-editor.3819/)>
-- [X] 🖼 2- K Editör  : <[2- Editörs Media](https://forum.kiraguard.com/index.php?media/categories/kira-k-all-in-one-editors.5/)>
+### Güncelleme Not : 
+- [X] 🖼 1098, 1453, 1534, 2369, 2383  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-v1098-v1534-v2369-g%C3%BCncelleme.49/)>
+- [X] 🖼 2435, 2522  : <[Güncelleme Not](https://forum.kiraguard.com/index.php?forums/kirasoftware-usko-files-25xx-g%C3%BCncelleme.82/)>
 
 ### DB Kira (K) All in One Server Editor Görsel Not : 
 - [X] 🖼 K Editör  : <[Editörs Media](https://forum.kiraguard.com/index.php?media/categories/kira-k-all-in-one-editors.5/)>
