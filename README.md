@@ -2,23 +2,29 @@
 
 ### KAYNAK KODU TAMAMEN veya herhangi bir kod satışı kesinlikle olmayacaktır. TEKLIFETMEYINIZ . . . #
 
-> 🔰[KSW]🔰 1098, 1453, 1534, 2369 Files Version🔰
-> 
-> 🔰[KSW]🔰 2383, 2435, 2522 Files Version ♡
+> 🔰[KSW]🔰 1098, 1453, 1534, 2369, 2383, 2435, 2522 Files Version ♡
 > 
 > **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
 ---
 
-Usko ile hemen hemen tüm özellikleri barındıran ve sürekli olarak güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
-Amacımız hayalleri olan ve uçuk rakamlardan dolayı bir türlü hayallerini gerçekleştiremeyen oyun sevenlere ve girişimcilere ulaşmaktır.
+Usko özelliklerini barındıran ve sürekli güncellenen dosyalarımızın satışına başlamış bulunmaktayız.
+Amacımız: Uçuk fiyatlardan dolayı hayallerini gerçekleştiremeyen oyunseverlere ve girişimcilere ulaşarak uygun fiyatlı çözümler sunmaktır.
 
-# KiraSoftWare - Anti Hook - Anticheat Özellikleri #
-Düpe ve hile engelleme konusunda paketlere dayalı koruma eklenmiştir.Tbl değiştirilmesine dayalı olarak dosya otomatik olarak tüm data klasörünü tarar ve değişen tüm dosyaları kendi ftp ağımızdan çekerek değiştirir bu sayede kullanıcı ne kadar tbl dosyası eklerse eklesin fix dosyalarla giriş sağlayacaktır.
-Oyuna giren kullanıcı hangi dosyaları açarsa açsın tüm alt dosyalar yine ftp sunucumuzdaki bilinen tüm hile programlarına karşı taranmakta ve ismi geçen bir program başlatıldığında kullanıcı oyuna giriş sağlayamamaktadır ve uyarı alacaktır.
+---
 
-Değerli arkadaşlar şu da bir gerçektir ki bildiğiniz üzere günümüzdeki birçok köklü ve devasa tarzda oyunlarda bile halen 3.party tools yazılımlardan etkilenmektedir ve kullanılmaktadır.
-Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam ederek olası dışı kullanılan hack programlarını engelleyeceğiz.
+USKO'nun neredeyse tüm özelliklerini barındıran ve sürekli güncellenen dosyalarımızın satışına başlamış bulunmaktayız. Amacımız, uçuk fiyatlar nedeniyle hayallerini gerçekleştiremeyen oyun severlere ve girişimcilere uygun çözümler sunmaktır.
 
+## KiraSoftWare - Anti Hook ve Anticheat Özellikleri
+
+- Düpe ve hile engelleme konusunda, paket bazlı koruma eklenmiştir.
+- TBL değiştirilmesine dayalı olarak dosyalar, tüm veri klasörünü otomatik tarar. Değiştirilen dosyalar, FTP ağımızdan yenilenir ve böylece kullanıcı ne kadar TBL dosyası eklerse eklesin, düzeltmelerle giriş yapar.
+- Oyuncuların çalıştırdığı tüm dosyalar, bilinen hile programlarına karşı FTP sunucumuzda taranır. Eğer bir hile programı tespit edilirse, kullanıcı uyarı alır ve giriş yapamaz.
+
+Modern oyunlarda bile üçüncü taraf araçlardan etkilenmelerin yaygın olduğunu biliyoruz. Bu nedenle sürekli güncellemeler yaparak, olası hile programlarını engellemeye devam edeceğiz.
+
+---
+
+🗂️ Paket Fiyatlandırması
 <table>
 	<thead>
 		<tr>
@@ -91,7 +97,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>Client (AntiCheat) Isım değiştirme</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr> 
 <tr>
@@ -277,6 +283,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 
 ### DB - KiraSoftWare.exe Release :
 - 🪒 32 & 64 Bit desteği
+- :hammer: KG.XEM Şifreledi
 - :hammer: .Net (2.0 - 3.5) fixed.
 - 🔐 KiraSoftWare 5MB düşürüldü. Kodları Şifreledi.
  
