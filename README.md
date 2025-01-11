@@ -3,7 +3,8 @@
 ### KAYNAK KODU TAMAMEN veya herhangi bir kod satışı kesinlikle olmayacaktır. TEKLIFETMEYINIZ . . . #
 
 > 🔰[KSW]🔰 1098, 1453, 1534, 2369 Files Version🔰
-> 🔰[KSW]🔰 2383, 2435, 2522 EnKısaSürede ♡
+> 
+> 🔰[KSW]🔰 2383, 2435, 2522 Files Version ♡
 > 
 > **Tags** : `KiraGuard` , `KiraSoft` , `KiraSoftWare` , `Kira Editör` , `Knight Online Pvp`, `Knight Online Pvp Server`
 ---
@@ -32,7 +33,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <tbody>
 <tr>
 	<td>1</td>
-	<td>4 Version Tek Files</td>
+	<td>1098 & 1453 & 1534 & 2369 Version Tek Files</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -40,6 +41,14 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 </tr>	
 <tr>
 	<td>2</td>
+	<td>2383 & 2435 & 2522 Version Tek Files</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>		
+<tr>
+	<td>3</td>
 	<td>Auto Update GameServer</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
@@ -47,92 +56,84 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>
 <tr>
-	<td>3</td>
+	<td>4</td>
 	<td>Auto Update LogInServer</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
-	<td>4</td>
-	<td>Auto Update LogsServer</td>
+	<td>5</td>
+	<td>KiraSoftWare DB Editör</td>
 	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>	
 <tr>
-	<td>5</td>
-	<td>Anti - Hook</td>
-	<td>:heavy_check_mark:</td>
+	<td>6</td>
+	<td>Usko Paneli Yeninlendi (08.01.2025)</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 </tr>		
 <tr>
-	<td>6</td>
-	<td>KiraSoftWare Editör</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-</tr>    
-<tr>
 	<td>7</td>
-	<td>Usko Panel</td>
+	<td>UIF Sıfreleme Editör</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-</tr>   
-	<tr>
+</tr>     
+<tr>
 	<td>8</td>
-	<td>Files Kurulum</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
+	<td>Client (AntiCheat) Isım değiştirme</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr> 
 <tr>
 	<td>9</td>
-	<td>Local & Server</td>
+	<td>Client Setup Oluşturma</td>
 	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>   
 <tr>
 	<td>10</td>
-	<td>UIF Sıfreleme Editör</td>
+	<td>Client System (Xem,Pak)</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
 </tr>		
 <tr>
 	<td>11</td>
-	<td>Client (AntiCheat)Isım değiştirme</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
-</tr>		
-	<tr>
-	<td>12</td>
-	<td>Client Setup Oluşturma</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_multiplication_x:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-</tr>  
-<tr>
-	<td>13</td>
 	<td>Ko-C*C* Program upup</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>	
+</tr>
+<tr>
+	<td>12</td>
+	<td>Github Dosya erişim</td>
+	<td>:heavy_multiplication_x:</td>
 	<td>:heavy_check_mark:</td>
-</tr>  	
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>	
+</tr>	
+<tr>
+	<td>13</td>
+	<td>Files Kurulum</td>
+	<td>:heavy_multiplication_x:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>	
+</tr>		
 <tr>
 	<td>14</td>
 	<td>Yardım Destek</td>
@@ -182,17 +183,6 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 </tr>
 <tr>
-	<td>3</td>
-	<td>Logs Server </td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-	<td>:heavy_check_mark:</td>
-</tr>	
-<tr>
 	<td>4</td>
 	<td>Anti - Hook </td>
 	<td>:heavy_check_mark:</td>
@@ -201,11 +191,22 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
-	<td>:Yakında:</td>
+	<td>:heavy_check_mark:</td>
 </tr>
 <tr>
+	<td>3</td>
+	<td>KiraSoftWare Editör</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>		
+<tr>
 	<td>5</td>
-	<td>KiraSoftWare Editör </td>
+	<td>Setup Client</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -217,6 +218,17 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 <tr>
 	<td>6</td>
 	<td>Client & Patch</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+</tr>	
+<tr>
+	<td>7</td>
+	<td>Client & (Xem , Pak)</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
 	<td>:heavy_check_mark:</td>
@@ -245,7 +257,7 @@ Tespit edilen bu tarz sorunlarda ise sürekli olarak güncellemelerimize devam e
 - [X] 🖼 1453  : <[1453 Media](https://forum.kiraguard.com/index.php?media/categories/1453-koserver.2/)>
 - [X] 🖼 1534  : <[1534 Media](https://forum.kiraguard.com/index.php?media/categories/1534-koserver.8/)>
 - [X] 🖼 2369  : <[2369 Media](https://forum.kiraguard.com/index.php?media/categories/2369-koserver.3/)>
-- [X] 🖼 2552  : <[2552 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
+- [X] 🖼 2522  : <[2522 Media](https://forum.kiraguard.com/index.php?media/categories/usko-koserver.6/)>
 
 ### DB Kira (K) All in One Server Editor Güncelleme Not : 
 - [X] 🖼 1- K Editör  : <[1- Editörs Media](https://ko-yardim.com/konu/kira-k-all-in-one-v1-0-server-editor.3819/)>
